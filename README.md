@@ -2,7 +2,7 @@
 
 TRABALHO COM VARIÁVEIS ONDE O CLIENTE INFORMA O VALOR DE PARCELAS PAGAS E O PROGRAMA MOSTRARÁ O VALOR TOTAL DE PARCELAS PAGAS E TAMBÉM DAS NÃO PAGAS.
 O PROGRAMA AO FINAL DIRÁ SE A DÍVIDA FOI OU NÃO TOTALMENTE PAGA.
-Uso de máscara de edição para uma melhor visualização do usuário.
+<b>Uso de máscara de edição para uma melhor visualização do usuário.</b>
 
 Código feito no OpenCobolIDE.
 
